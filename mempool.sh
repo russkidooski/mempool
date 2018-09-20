@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BITCOINCLI=/home/bitcoin/bin/bitcoin-cli
+BITCOINCLI=/home/raven/bin/raven-cli
 MEMPOOLHOME=/home/mempool/mempool
 TMPFILE=/dev/shm/mempool-btc/rawdump.txt
 mkdir -p /dev/shm/mempool-btc
